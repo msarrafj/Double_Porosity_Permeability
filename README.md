@@ -24,6 +24,6 @@ only eliminates spurious numerical instabilities but it does not suppress physic
 <ul>
 <li> 
 
-My <a href="./Video/EMI_poster.pdf"> poster presentation</a> at Engineering Mechanics Institute (EMI) Conference, MIT, MA, May 2018.
+My <a href="./Video/EMI_poster.pdf" target="_blank"> poster presentation</a> at Engineering Mechanics Institute (EMI) Conference, MIT, MA, May 2018.
 </li>
 </ul>

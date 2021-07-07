@@ -25,6 +25,6 @@ only eliminates spurious numerical instabilities but it does not suppress physic
 <li> 
 
 My ![poster presentation](./Video/EMI_poster.pdf) at Engineering Mechanics Institute (EMI) Conference, MIT, MA, May 2018.
-My <a href="./Video" download="EMI_poster.pdf" target="_blank"> poster presentation</a> at Engineering Mechanics Institute (EMI) Conference, MIT, MA, May 2018.
+My <a href="https://github.com/msarrafj/Double_Porosity_Permeability/Video" download="EMI_poster.pdf" target="_blank"> poster presentation</a> at Engineering Mechanics Institute (EMI) Conference, MIT, MA, May 2018.
 </li>
 </ul>
